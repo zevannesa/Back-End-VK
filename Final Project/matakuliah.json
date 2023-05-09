@@ -1,0 +1,24 @@
+[
+    {
+        "kode" : "000",
+        "matakuliah" : "Mobile App Development",
+        "nama" : "Helen",
+        "ruangan" : "Gk1",
+        "jam" : "11-00"
+    }, 
+    {
+        "kode" : "001",
+        "matakuliah" : "Web Design",
+        "nama" : "Helena",
+        "ruangan" : "Gk1",
+        "jam" : "12-00"
+    }, 
+    {
+        "kode" : "002",
+        "matakuliah" : "Back End Developer",
+        "nama" : "Helga",
+        "ruangan" : "Gk1",
+        "jam" : "13-00"
+    }
+
+]
